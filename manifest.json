@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-	"name": "Styler Pro",
+	"name": "Styler",
 	"version": "6.0.0",
 	"description": "Add custom CSS styles, JavaScript & jQuery to any websites",
 	"action": {
